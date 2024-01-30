@@ -1,5 +1,5 @@
 ### N-Queen problem : 
-###### Given the length (same width) of the board, show all possible solutions : 
+##### Given the length (same width) of the board, show all possible solutions : 
 #### Time complexity : n!
 #### Space complexity : number of solutions * n ^ 2
 #### C++ 
